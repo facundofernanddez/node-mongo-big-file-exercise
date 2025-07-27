@@ -5,6 +5,9 @@
   "repository": "https://github.com/fedenelli/node-mongo-big-file-exercise.git",
   "author": "Federico Nelli <fnelli@carbon-base.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^16.0.3",
